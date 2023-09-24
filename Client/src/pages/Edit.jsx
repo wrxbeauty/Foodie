@@ -1,4 +1,5 @@
 const React = require('react');
+const Default = require('./layout/default')
 
 
 function Edit({recipe}) {
